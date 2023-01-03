@@ -10,7 +10,7 @@
     "joi": "^17.7.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-scripts": "^5.0.1",
+    "react-scripts": "^4.0.3",
     "rollup-plugin-terser": "^7.0.2",
     "web-vitals": "^0.2.4"
   },
