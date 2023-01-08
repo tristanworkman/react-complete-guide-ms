@@ -29,3 +29,5 @@ const Expenses = (props) => {
 };
 
 export default Expenses;
+
+//someArray.map((element) => <p>{element}</p>) This will transform the someArray into a new array full of JSX elements (which can be output by React)
