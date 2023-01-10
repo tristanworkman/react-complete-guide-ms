@@ -1,5 +1,5 @@
 import React from "react";
-
+// import styled from "styled-components";
 import CourseGoalItem from "../CourseGoalItem/CourseGoalItem";
 import "./CourseGoalList.css";
 
