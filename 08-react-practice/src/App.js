@@ -1,8 +1,12 @@
 import React from "react";
-import AddUser from "./User/AddUser";
+import AddUser from "./Users/AddUser";
 
 function App() {
-	return <div></div>;
+	return (
+		<div>
+			<AddUser />
+		</div>
+	);
 }
 
 export default App;
