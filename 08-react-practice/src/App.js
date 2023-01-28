@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import AddUser from "./Users/AddUser";
 import UsersList from "./Users/UsersList";
 
-const App = (props) => {
+const App = () => {
 	// const [finalUsername, setFinalUsername] = useState("");
 	// const [finalAge, setFinalAge] = useState("");
 
